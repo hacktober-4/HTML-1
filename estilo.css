@@ -1,0 +1,30 @@
+#caja1{
+	width: 100%;
+    border: 25px solid red;
+    padding: 25px;
+    margin-bottom: 25px;
+	folat:lef;
+}
+#caja2{
+	width: 35%;
+    border: 25px solid #00FFFF;
+    padding: 25px;
+    margin-bottom: 25px;
+	float:left;
+	overflow:auto;
+}
+#caja3{
+	width: 30%;
+    border: 25px solid #8A084B;
+    padding: 25px;
+	margin-left: 1%;
+	float:left;
+	overflow:auto;
+}
+#caja4{
+	width: 100%;
+    border: 25px solid green;
+    padding: 25px;
+    margin-top: 70px;
+	overflow:auto;
+}
